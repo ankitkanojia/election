@@ -1,0 +1,25 @@
+Metamask Secret Words:
+nuclear sand nuclear own swarm cup sign south drama inspire indoor coral
+
+ 
+
+https://www.youtube.com/watch?v=3681ZYbDSSk
+https://github.com/dappuniversity/election
+
+ 
+Election.deployed().then(function(instance){app = instance})
+app.address
+app.candidate()
+truffle migrate --reset
+
+var accounts = web3.eth.getAccounts();
+web3.eth.getAccounts().then(function(result){
+    account0 = result[0];
+})
+ 
+
+
+
+
+
+
